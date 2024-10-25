@@ -21,9 +21,10 @@ background-color: #FEF9F2
 }  
 
 .subtitulo {
+    justify-content: center;
     text-align: center;
     justify-content: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Tahoma, sans-serif;
     padding: 10px, 20px;
     text-decoration: none;
 }  
