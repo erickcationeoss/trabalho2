@@ -9,17 +9,17 @@
         flex-direction: row;    
     }
 
-    .main{
-        height: 80vh;
-        background-color: white;
-        flex: 1;
-    }
-    
     .cabeçalho {
         background-color: #433878;
          display: flex;
           justify-content: center;
          height: 20vh;
+    }
+
+    .main{
+        height: 80vh;
+        background-color: white;
+        flex: 1;
     }
 
     .subtt {
