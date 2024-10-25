@@ -20,12 +20,13 @@ background-color: #FEF9F2
 
 .barranav{
     display: flex;
+    padding: 40px;
     background-color: #133E87;
 }
 
 .lista{
-    padding-left: 20px;
     justify-content: space-between;
+    align-items: center;
     color: white;
 }
 
