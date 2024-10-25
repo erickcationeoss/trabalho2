@@ -24,7 +24,9 @@ background-color: #FEF9F2
 }
 
 .lista{
+    padding-left: 20px;
     justify-content: space-between;
+    color: white;
 }
 
 .corpo {
