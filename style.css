@@ -90,10 +90,5 @@
         display:flex;
         background-color: black;
         height: 10vh;
-    }
-    
-    .rodapetext {
         font-size: 15pt;
-        color: white;
-        font-family: Arial;
     }
