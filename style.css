@@ -1,72 +1,57 @@
 /*cabeçalho*/
 .body{
-margin: 0;
-padding: 0;
-border: 0;
-background-color: #FEF9F2
-
-}
-
-.cabeçalho {
-    display: flex;
-   justify-content: center;
-}
-.titulo {
-    text-align: center;
-    justify-content: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: "bold";
-    padding: 20px, 30px;
-    text-decoration: none;
-}  
-
-.subtitulo {
-    justify-content: center;
-    text-align: center;
-    justify-content: center;
-    font-family: Tahoma, sans-serif;
-    padding: 10px, 20px;
-    text-decoration: none;
-}  
-
-
-
-.barranav{
-    display: flex;
-    padding: 40px;
-    background-color: #788396;
-    justify-content: space-around;
-    flex-direction: row;
-}
-
-.lista{
-    color: rgb(0, 0, 0);
-    justify-content: center;
-    flex-direction: row;
-}
-
-.corpo {
-    justify-content: center;
-}
-
-.txt {
-    text-align: center;
-    justify-content: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-}
-
-.sections{
-    justify-content: center;
-    font-family: sans-serif;
-    text-decoration: none;
-}
-
-.rodape {
-    text-align:center;
-    display:block;
-    background-color: black;
-    color: white;
-    padding: 24px 0;
-    font-family: arial;
-}
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #FEF9F2
+    
+    }
+    
+    .cabeçalho {
+        display: flex;
+       justify-content: center;
+    }
+    .titulo {
+        text-align: center;
+        justify-content: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: "bold";
+        padding: 20px, 30px;
+        text-decoration: none;
+    }  
+    
+    
+    .barranav{
+        display: flex;
+        padding: 40px;
+        background-color: #788396;
+        flex-direction: row;
+    }
+    
+    
+    .corpo {
+        justify-content: center;
+    }
+    
+    .txt {
+        text-align: center;
+        justify-content: center;
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+    }
+    
+    .sections{
+        justify-content: center;
+        font-family: sans-serif;
+        text-decoration: none;
+    }
+    
+    .rodape {
+        text-align:center;
+        display:block;
+        background-color: black;
+        color: white;
+        padding: 24px 0;
+        font-family: arial;
+    }
+    
