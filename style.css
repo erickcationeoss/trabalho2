@@ -12,6 +12,7 @@ background-color: #FEF9F2
    justify-content: center;
 }
 .titulo {
+    text-align: center;
     justify-content: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: "bold";
@@ -37,7 +38,7 @@ background-color: #FEF9F2
 }
 
 .txt {
-    display: center;
+    text-align: center;
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
