@@ -3,7 +3,7 @@
 margin: 0;
 padding: 0;
 border: 0;
-background-color: #818181;
+background-color: #FEF9F2
 
 }
 
@@ -24,13 +24,11 @@ background-color: #818181;
 }
 
 .lista{
-    justify-content: space-around;
-    padding-inline: 40px;
+    justify-content: space-between;
 }
 
 .corpo {
     justify-content: center;
-    background-color: antiquewhite;
 }
 
 .sections{
@@ -40,8 +38,10 @@ background-color: #818181;
 }
 
 .rodape {
-    
+    text-align:center;
+    display:block;
     background-color: black;
     color: white;
+    padding: 24px 0;
     font-family: arial;
 }
