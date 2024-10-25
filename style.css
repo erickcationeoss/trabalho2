@@ -67,6 +67,16 @@
         font-family: sans-serif;
         text-decoration: none;
     }
+
+    .aside {
+        height: 80vh;
+        background-color: #999;
+    }
+
+    .aside section{
+        display: flex;
+        flex-direction: row;
+    }
     
     .rodape {
         text-align:center;
