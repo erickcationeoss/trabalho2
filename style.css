@@ -16,11 +16,10 @@
     }
     
     .cabeçalho {
-        display: flex;
-       justify-content: center;
-       height: 20vh;
-       background-color: #433878;
-       color: white;
+        background-color: #433878;
+         display: flex;
+          justify-content: center;
+         height: 20vh;
     }
 
     .subtt {
@@ -61,8 +60,7 @@
     .barranav{
         display: flex;
         padding: 15px;
-        background-color: rgb(59, 67, 99);
-        color: white;
+        background-color: #B7B7B7;
         flex-direction: row;
         justify-content: center;
         text-align: center;
@@ -74,7 +72,7 @@
         padding: 8px 22px;
         border-radius: 6px;
         transition: all 0.2 ease;
-        background-color: rgb(59, 67, 99);
+        background-color: #EDDFE0 ;
 
     }
 
