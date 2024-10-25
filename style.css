@@ -26,6 +26,7 @@ background-color: #FEF9F2
     padding: 40px;
     background-color: #788396;
     justify-content: space-around;
+    flex-direction: row;
 }
 
 .lista{
