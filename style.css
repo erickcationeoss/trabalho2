@@ -6,14 +6,13 @@
 
     .sectionbody {  
         display: flex;
-        flex-direction: row;
-        flex: 1;
-    
+        flex-direction: row;    
     }
 
     .main{
         height: 80vh;
         background-color: white;
+        flex: 1;
     }
     
     .cabeçalho {
@@ -81,6 +80,7 @@
 
     .aside {
         height: 80vh;
+        width: 15vh;
         background-color: #999;
         }
 
@@ -89,7 +89,7 @@
         text-align:center;
         display:flex;
         background-color: black;
-        height: 20vh;
+        height: 10vh;
     }
     
     .rodapetext {
