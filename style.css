@@ -4,13 +4,15 @@
 }
 
 
-.sectionbody {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background-color: #FEF9F2;
-    flex: 1;
+    .sectionbody {  
+        display: flex;
+        flex-direction: row;
     
+    }
+
+    .main{
+        height: 80vh;
+        background-color: white;
     }
     
     .cabeçalho {
@@ -77,15 +79,10 @@
     }
 
     .aside {
-        height: 90vh;
+        height: 80vh;
         background-color: #999;
-        width: 25vh;
-    }
+        }
 
-    .aside aside{
-        display: flex;
-        flex-direction: row;
-    }
     
     .rodape {
         text-align:center;
