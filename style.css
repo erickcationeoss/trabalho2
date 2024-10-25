@@ -66,9 +66,15 @@
         text-align: center;
     }
     
+    .orglist {
+       display: flex;
+       align-items: center;
+       justify-content: space-around;
+       flex-direction: row;
+
+    }
+
     .buttonnav{
-        flex-direction: row;
-        justify-content: center;
         padding: 8px 22px;
         border-radius: 6px;
         transition: all 0.2 ease;
