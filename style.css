@@ -59,18 +59,15 @@
     .buttonnav{
         flex-direction: row;
         justify-content: center;
-        border: none;
-        background: #242d46;
-        padding: 16px 30px;
-        color: #fff;
+        padding: 8px 22px;
         border-radius: 6px;
-        transition: 0.2s;
+        background: #7d2ae8;
+        transition: all 0.2 ease;
 
     }
 
-    .button:hover{
-       box-shadow: 0 0 0 4px #fff,
-        0 0 0 8px #242d46;
+    .button:active{
+       transform: scale(0.98);
     }
     
     .corpo {
