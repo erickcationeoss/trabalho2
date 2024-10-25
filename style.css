@@ -75,20 +75,23 @@
         height: 90vh;
         background-color: #999;
         width: 25vh;
+        justify-content: end;
     }
 
     .aside aside{
         display: flex;
         flex-direction: row;
-        justify-content: end;
     }
     
     .rodape {
         text-align:center;
         display:block;
         background-color: black;
-        color: white;
         height: 20vh;
-        font-family: arial;
     }
     
+    .rodape p{
+        font-size: 15pt;
+        color: white;
+        font-family: Arial;
+    }
