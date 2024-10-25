@@ -23,6 +23,7 @@ background-color: #FEF9F2
     display: flex;
     padding: 40px;
     background-color: #788396;
+    justify-content: space-around;
 }
 
 .lista{
