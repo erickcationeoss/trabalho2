@@ -7,6 +7,7 @@
     .sectionbody {  
         display: flex;
         flex-direction: row;
+        flex: 1;
     
     }
 
@@ -86,7 +87,7 @@
     
     .rodape {
         text-align:center;
-        display:block;
+        display:flex;
         background-color: black;
         height: 20vh;
     }
