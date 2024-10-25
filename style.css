@@ -69,13 +69,14 @@
     }
 
     .aside {
-        height: 80vh;
+        height: 40vh;
         background-color: #999;
     }
 
     .aside section{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
+        justify-content: flex-end;
     }
     
     .rodape {
