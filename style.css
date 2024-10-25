@@ -77,9 +77,10 @@
         width: 25vh;
     }
 
-    .aside section{
+    .aside aside{
         display: flex;
         flex-direction: row;
+        justify-content: end;
     }
     
     .rodape {
