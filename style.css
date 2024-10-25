@@ -1,1 +1,35 @@
+/*cabeçalho*/
+.cabeçalho {
+ margin: 0;
+ padding: 0;
+ border: 0;
 
+}
+.titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: "bold";
+    padding: 20px, 30px;
+    text-decoration: none;
+}  
+
+.barranav{
+    background-color: #133E87, #608BC1;
+    display: flex;
+}
+
+.corpo {
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+.sections{
+    justify-content: center;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.rodape {
+    background-color: black;
+    text-decoration: white;
+    font-family: arial;
+}
