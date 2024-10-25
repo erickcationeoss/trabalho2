@@ -19,6 +19,15 @@
         padding: 20px, 30px;
         text-decoration: none;
     }  
+
+    .subtitulo {
+       text-align: center;
+       text-decoration: none;
+       font-weight: bold;
+       padding: 8px, 16px;
+       font-family: Tahoma;
+
+    }
     
     
     .barranav{
