@@ -23,7 +23,7 @@
     }
 
     .subtt {
-        color: white;
+        color: rgb(0, 0, 0);
         text-align: center;
         text-decoration: none;
         padding: 8px 16px;
@@ -34,7 +34,7 @@
         display: flex;
         justify-content: center;
         padding: 24px, 34px;
-        color: white;
+        color: rgb(0, 0, 0);
     }  
 
     .titulo h1{
@@ -60,7 +60,7 @@
     .barranav{
         display: flex;
         padding: 15px;
-        background-color: #B7B7B7;
+        background-color: #0B192C;
         flex-direction: row;
         justify-content: center;
         text-align: center;
@@ -68,7 +68,6 @@
     
     .orglist {
        display: flex;
-       align-items: center;
        justify-content: space-around;
        flex-direction: row;
 
@@ -78,7 +77,7 @@
         padding: 8px 22px;
         border-radius: 6px;
         transition: all 0.2 ease;
-        color: #EDDFE0 ;
+        color: #1f1f1f ;
 
     }
 
