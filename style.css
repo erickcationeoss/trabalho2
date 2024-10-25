@@ -1,8 +1,17 @@
 /*cabeçalho*/
+.body{
+margin: 0;
+padding: 0;
+border: 0;
+}
+
 .cabeçalho {
- margin: 0;
- padding: 0;
- border: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #b4b4b4;
+    padding: 10px 20px;
+
 
 }
 .titulo {
@@ -29,6 +38,7 @@
 }
 
 .rodape {
+    
     background-color: black;
     text-decoration: white;
     font-family: arial;
