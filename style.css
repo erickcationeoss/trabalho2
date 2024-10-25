@@ -19,11 +19,23 @@
         display: flex;
        justify-content: center;
        height: 20vh;
+       background-color: #433878;
+       color: white;
     }
+
+    .subtt {
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        padding: 8px 16px;
+        font-family: Tahoma;
+    }
+
     .titulo {
         display: flex;
         justify-content: center;
-        padding: 20px, 30px;
+        padding: 24px, 34px;
+        color: white;
     }  
 
     .titulo h1{
