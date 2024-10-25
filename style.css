@@ -34,8 +34,13 @@
         display: flex;
         padding: 15px;
         background-color: #626F47, #798645;
+    }
+
+    .lista{
         flex-direction: row;
-        text-decoration: none;
+        justify-content: center;
+        font-size: 14pt;
+
     }
     
     
