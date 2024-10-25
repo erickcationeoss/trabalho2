@@ -20,6 +20,15 @@ background-color: #FEF9F2
     text-decoration: none;
 }  
 
+.subtitulo {
+    text-align: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px, 20px;
+    text-decoration: none;
+}  
+
+
 
 .barranav{
     display: flex;
