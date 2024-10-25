@@ -20,10 +20,12 @@ background-color: #818181;
 
 .barranav{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
     background-color: #133E87;
+}
 
+.lista{
+    justify-content: space-around;
+    padding-inline: 40px;
 }
 
 .corpo {
