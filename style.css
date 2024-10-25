@@ -33,7 +33,7 @@
     .barranav{
         display: flex;
         padding: 15px;
-        background-color: #626F47, #798645;
+        background-color: linear-gradient( #626F47, #798645);
         flex-direction: row;
         justify-content: center;
     }
