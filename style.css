@@ -18,7 +18,7 @@
 
     .main{
         height: 80vh;
-        background-color: white;
+        background-color: rgb(0, 0, 0);
         flex: 1;
     }
 
@@ -60,7 +60,7 @@
     .barranav{
         display: flex;
         padding: 15px;
-        background-color: #0B192C;
+        background-color: #b9b9b9;
         flex-direction: row;
         justify-content: center;
         text-align: center;
