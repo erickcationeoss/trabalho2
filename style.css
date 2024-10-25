@@ -1,6 +1,11 @@
 /*cabeçalho*/
 .body{
     margin: 0;
+}
+
+
+.sectionbody {
+    margin: 0;
     padding: 0;
     border: 0;
     background-color: #FEF9F2;
@@ -65,7 +70,7 @@
         color: black;
     }
     
-    .sections{
+    .artigos {
         justify-content: center;
         font-family: sans-serif;
         text-decoration: none;
