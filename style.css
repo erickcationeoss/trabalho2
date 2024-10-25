@@ -82,6 +82,15 @@
        transform: scale(0.98);
     }
     
+    .txtbt {
+    display: flex;
+     font-size: 5pt 10pt;
+     text-align: center;
+     color: white;
+     text-decoration: none;
+
+    }
+
     .corpo {
         justify-content: center;
     }
@@ -117,7 +126,7 @@
     .txtrdp{
       color: white;
       font-family: arial;
-      font-size: 15px;
+      font-size: 15pt;
       text-align: center;
 
 
