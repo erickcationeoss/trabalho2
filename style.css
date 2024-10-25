@@ -3,7 +3,8 @@
     margin: 0;
     padding: 0;
     border: 0;
-    background-color: #FEF9F2
+    background-color: #FEF9F2;
+    flex: 1;
     
     }
     
@@ -40,13 +41,14 @@
     .barranav{
         display: flex;
         padding: 15px;
-        background-color: linear-gradient( #626F47, #798645);
+        background-color: black;
         flex-direction: row;
         justify-content: center;
         text-align: center;
     }
     
     .barranav li{
+        color: white;
         text-decoration: none;
         font-size: 17pt;
     }
@@ -71,12 +73,12 @@
     .aside {
         height: 40vh;
         background-color: #999;
+        width: 10vh;
     }
 
     .aside section{
         display: flex;
-        flex-direction: column;
-        justify-content: flex-end;
+        flex-direction: row;
     }
     
     .rodape {
