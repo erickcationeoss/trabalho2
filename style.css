@@ -87,6 +87,7 @@
 
     
     .rodape {
+        justify-content: center;
         text-align:center;
         display:flex;
         background-color: black;
@@ -97,6 +98,7 @@
       color: white;
       font-family: arial;
       font-size: 15px;
+      text-align: center;
 
 
     }
