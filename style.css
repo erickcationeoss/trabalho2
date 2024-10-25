@@ -23,9 +23,11 @@
     
     .barranav{
         display: flex;
-        padding: 40px;
+        padding: 20px;
         background-color: #788396;
         flex-direction: row;
+        text-size-adjust: 5px;
+        text-decoration: none;
     }
     
     
