@@ -4,7 +4,6 @@ margin: 0;
 padding: 0;
 border: 0;
 display: flex;
-align-items: center;
 background-color: #818181;
 
 }
@@ -21,11 +20,10 @@ background-color: #818181;
 }  
 
 .barranav{
-    background-color: #133E87, #608BC1;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    background-color: #133E87;
 
 }
 
