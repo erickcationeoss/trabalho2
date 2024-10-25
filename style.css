@@ -31,6 +31,7 @@ background-color: #FEF9F2
 .lista{
     color: rgb(0, 0, 0);
     justify-content: center;
+    flex-direction: row;
 }
 
 .corpo {
